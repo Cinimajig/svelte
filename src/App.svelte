@@ -3,5 +3,5 @@
   import { routes } from "./routes";
 </script>
 
-<Navigate to="/">Home</Navigate>
+<a href="/">Home</a>
 <Router {routes} />
